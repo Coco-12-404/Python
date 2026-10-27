@@ -20,6 +20,7 @@ standard library - no extra packages needed.
 | 10 | [Loops](10_loops/) | `for`, `while`, `range`, `break`, `continue`, nested loops |
 | 11 | [Dictionaries](11_dictionaries/) | Key-value pairs, looping, counting, nesting |
 | 12 | [Functions](12_functions/) | Parameters, return values, defaults, keyword arguments |
+| 13 | [Object-oriented programming](13_object_oriented_programming/) | Classes, objects, `__init__`, properties, inheritance, polymorphism, abstraction, composition, dunder methods, mini-project *(in progress)* |
 
 Each folder contains `examples.py` (or similarly named example files), `exercises.py`, and a `README.md`.
 
@@ -92,6 +93,7 @@ Topics learned (studied):
 - [x] 10 Loops
 - [x] 11 Dictionaries
 - [x] 12 Functions
+- [ ] 13 Object-oriented programming (in progress)
 
 Exercises completed:
 
@@ -107,10 +109,11 @@ Exercises completed:
 - [ ] 10 Loops exercises
 - [ ] 11 Dictionaries exercises
 - [ ] 12 Functions exercises
+- [ ] 13 Object-oriented programming exercises
 
 ## Future topics
 
-Add a new numbered folder (for example `13_file_handling/`) with the same three
+Add a new numbered folder (for example `14_file_handling/`) with the same three
 files, then add it to the table and checklist above.
 
 - [ ] Error handling (`try` / `except`) in depth
